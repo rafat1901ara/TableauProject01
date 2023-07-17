@@ -3,4 +3,4 @@
 Project 04 - Road Accident
 
 
-For more details about the project go through : Project Details File 
+For more details about the project go through : Links File 
